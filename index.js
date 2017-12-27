@@ -13,6 +13,9 @@ function divide(a,b) {
 function inc(a) {
   return a++;
 }
+function dec(a) {
+  return n -= 1;
+}
 function makeInt(n) {
   return parseInt(n, 10);
 }
